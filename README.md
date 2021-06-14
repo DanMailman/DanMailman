@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DanMailman
+- 👀 I’m interested in Computational Linguistics
