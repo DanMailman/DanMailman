@@ -28,3 +28,11 @@ I am a principal software engineer and Computer Science PhD candidate at the Uni
 ## Private and Employer-Owned Work
 
 Some of my most recent AI workflow and enterprise automation work is private or employer-owned. I describe that work in resumes and case studies without publishing confidential code, credentials, or data.
+
+High-level examples include:
+
+- AI-assisted workflow automation with explicit state, audit logs, review surfaces, and controlled API/LLM calls
+- Salesforce/Apex and Python systems that turn ambiguous operational workflows into traceable, testable automation
+- Document, workbook, OCR/vision, and media-processing pipelines with human review and generated report artifacts
+- Retrieval-backed mapping and comparison tools for standards, curriculum, source documents, and versioned content
+- Executive dashboards and local-first FastAPI tools for KPI review, incomplete-data tracking, and stakeholder-facing analysis
